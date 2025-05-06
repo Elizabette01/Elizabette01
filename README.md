@@ -16,9 +16,9 @@ I made the bold leap from Administration to software development, and I haven’
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elizabette01/Elizabette01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elizabette01/Elizabette01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Elizabette01/Elizabette01/output/github-snake.svg" />
 </picture>
 
 ### ✍️ Random Dev Quote
