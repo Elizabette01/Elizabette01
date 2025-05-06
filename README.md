@@ -13,6 +13,14 @@ I made the bold leap from Administration to software development, and I haven’
 ![](https://nirzak-streak-stats.vercel.app/?user=Elizabette01&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabette01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/elizabette01/elizabette01/output/github-snake.svg" />
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
