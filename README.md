@@ -1,7 +1,7 @@
-# Hi there 👋 I’m a frontend developer with a heart full of code and a mind wired for creativity.
+# Hi there 👋 I’m a Software developer and AI enthusiast with a heart full of code and a mind wired for creativity.
 
 # 💫 About Me:
-I made the bold leap from Administration to software development, and I haven’t looked back since!<br><br>Currently leveling up my cloud ☁️ and full-stack skills while aiming to work with great teams<br><br>When I’m not coding, I’m lifting weights 🏋🏽‍♀️, sipping tea 🍵, or cheering on more women in tech 💜.<br><br>Let’s create something awesome!
+I made the bold leap from Administration to software development, and I haven’t looked back since!<br><br>Currently leveling up my AI, cloud ☁️ and full-stack skills while aiming to work with great teams<br><br>When I’m not coding, I’m lifting weights 🏋🏽‍♀️, sipping tea 🍵, or cheering on more women in tech 💜.<br><br>Let’s create something awesome!
 
 
 ## 🌐 Socials:
